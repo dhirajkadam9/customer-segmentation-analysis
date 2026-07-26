@@ -9,6 +9,7 @@ I analyzed e-commerce customer data to group customers based on their buying beh
 - Scikit-Learn
 - Matplotlib
 - Seaborn
+- SQLite (SQL Analysis)
 - Jupyter Notebook
 
 ## What is RFM?
